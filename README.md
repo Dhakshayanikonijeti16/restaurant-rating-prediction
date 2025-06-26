@@ -1,4 +1,4 @@
-# Restaurant Rating Prediction Project
+#MACHINE LEARNING PROJECT
 
 This project includes a set of notebooks focused on analyzing and predicting restaurant ratings using various features such as cuisine, location, and more.
 
